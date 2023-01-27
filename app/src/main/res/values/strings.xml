@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Audio Carousel App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_sign_out">sign out</string>
+    <string name="button_continue">continue</string>
+    <string name="button_upload">upload</string>
+    <string name="button_clear_listened">clear</string>
+    <string name="pause_button_text">STOP</string>
+    <string name="play_button_text">PLAY</string>
+    <string name="choose_audio">Choose Audio</string>
+    <string name="submit">Submit</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="view_song_page">View Song Page</string>
+    <string name="home">HOME</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>

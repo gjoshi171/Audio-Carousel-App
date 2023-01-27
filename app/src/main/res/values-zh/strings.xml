@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">視頻輪播</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_sign_out">登出</string>
+    <string name="button_continue">繼續</string>
+    <string name="button_upload">上傳</string>
+
+    <string name="pause_button_text">停止</string>
+    <string name="play_button_text">玩</string>
+    <string name="choose_audio">选择音频</string>
+    <string name="submit">提交</string>
+    <string name="choose_image">选择图像</string>
+    <string name="view_song_page">查看歌曲页面</string>
+    <string name="home">家</string>
+    <string name="button_clear_listened">清除</string>
+    <string name="save">節省</string>
+    <string name="clear">清除</string>
+</resources>

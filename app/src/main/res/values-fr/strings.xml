@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carrousel Vidéo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_sign_out">Se Déconnecter</string>
+    <string name="button_continue">Continuer</string>
+    <string name="button_upload">Télécharger</string>
+
+    <string name="pause_button_text">ARRÊT</string>
+    <string name="play_button_text">JOUER</string>
+    <string name="choose_audio">Choisissez le son</string>
+    <string name="submit">Soumettre</string>
+    <string name="choose_image">Choisissez une image</string>
+    <string name="view_song_page">Afficher la page de la chanson</string>
+    <string name="home">DOMICILE</string>
+    <string name="button_clear_listened">dégager</string>
+    <string name="save">Sauver</string>
+    <string name="clear">Dégager</string>
+</resources>

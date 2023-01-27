@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/UploadAudionfragement"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UploadAudioFragement">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/enter_lyrics"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:ems="10"
+            android:hint="Enter Lyrics"
+            android:inputType="text|textMultiLine"
+            android:minHeight="48dp"
+            app:layout_constraintBottom_toTopOf="@+id/h50"
+            app:layout_constraintEnd_toStartOf="@+id/v50"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/h20"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <EditText
+            android:id="@+id/enter_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Enter Title"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            app:layout_constraintBottom_toTopOf="@+id/h20"
+            app:layout_constraintEnd_toStartOf="@+id/v80"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/choose_Image_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="openfilechoose"
+            android:text="@string/choose_image"
+            app:layout_constraintBottom_toTopOf="@+id/submit_button"
+            app:layout_constraintEnd_toEndOf="@+id/submit_button" />
+
+        <Button
+            android:id="@+id/choose_audio_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choose_audio"
+            app:layout_constraintBottom_toTopOf="@+id/choose_Image_Button"
+            app:layout_constraintEnd_toEndOf="@+id/submit_button" />
+
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/submit"
+            app:layout_constraintBottom_toTopOf="@+id/h80"
+            app:layout_constraintEnd_toStartOf="@+id/v80"
+            app:layout_constraintStart_toStartOf="@+id/v80"
+            app:layout_constraintTop_toTopOf="@+id/h80" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/v20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent=".2" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/h20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent=".2" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/v80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent=".8" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/h80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent=".8" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/v50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent=".5" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/h50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent=".5" />
+
+        <Button
+            android:id="@+id/saveText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:text="@string/save"
+            app:layout_constraintBottom_toTopOf="@+id/h80"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/h80" />
+
+        <Button
+            android:id="@+id/clearText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:text="@string/clear"
+            app:layout_constraintBottom_toTopOf="@+id/h80"
+            app:layout_constraintEnd_toStartOf="@+id/submit_button"
+            app:layout_constraintStart_toEndOf="@+id/saveText"
+            app:layout_constraintTop_toTopOf="@+id/h80" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

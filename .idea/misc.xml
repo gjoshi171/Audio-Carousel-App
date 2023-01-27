@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_second.xml" value="0.33" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_view_song.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_viewsong.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/button_bar.xml" value="0.17249240121580547" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/sign_in_fragment.xml" value="0.17249240121580547" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/video_feed_fragment.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/video_preview_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_buttons.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_info.xml" value="0.33" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_text.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_top_bar.xml" value="0.25" />
+        <entry key="..\:/Users/jmhua/Documents/GitHub/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_topbar.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/sign_in_fragment.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/video_feed_fragment.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/video_preview_fragment.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_buttons.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_info.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/Final_Project/final-project-and-presentation-aka-no/app/src/main/res/layout/view_song_topbar.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/final-project-and-presentation-aka-no/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/final-project-and-presentation-aka-no/app/src/main/res/layout/sign_in_fragment.xml" value="0.1671875" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout-land/activity_second.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout-land/activity_view_song.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_second.xml" value="0.2" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_third.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/activity_view_song.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/button_bar.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/db_info.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/fragment_upload_audio_fragement.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/video_feed_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/Desktop/Final Presentation/final-project-and-presentation-aka-no/app/src/main/res/layout/video_preview_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-land/activity_view_song.xml" value="0.2234375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3972222222222222" />
+        <entry key="app/src/main/res/layout/activity_view_song.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/button_bar.xml" value="0.40717948717948715" />
+        <entry key="app/src/main/res/layout/db_info.xml" value="0.40717948717948715" />
+        <entry key="app/src/main/res/layout/fragment_upload_audio_fragement.xml" value="0.40717948717948715" />
+        <entry key="app/src/main/res/layout/sign_in_fragment.xml" value="0.40717948717948715" />
+        <entry key="app/src/main/res/layout/video_feed_fragment.xml" value="0.3972222222222222" />
+        <entry key="app/src/main/res/layout/video_preview_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_song_info.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
