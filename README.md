@@ -2,9 +2,14 @@
 
 Team submission for CPSC 411A, Section 01 Final Project and Presentation
 
+# Description: 
+  
 # Group Information
 
 * Name: Gaurav Joshi
 * Name: Abhiruchi Shinde
 * Name: Patrick Lin 
 * Name: Gabriel Warkentin
+
+
+
