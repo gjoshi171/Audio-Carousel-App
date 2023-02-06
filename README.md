@@ -12,12 +12,13 @@ Team submission for CPSC 411A, Section 01 Final Project and Presentation
 * Name: Gabriel Warkentin
 
 
-![Screenshot 2023-01-26 212910](https://user-images.githubusercontent.com/31128014/216876513-b3d4f8c2-5de9-4826-8992-46ebcff65412.jpg)
-![Screenshot 2023-01-26 213005](https://user-images.githubusercontent.com/31128014/216876515-573f714e-a4a3-4a32-a9bb-01d06aa38b84.jpg)
-![Screenshot 2023-01-26 213031](https://user-images.githubusercontent.com/31128014/216876517-a81cc65b-deff-4841-a3f8-926c5f78afba.jpg)
-![Screenshot 2023-01-26 213103](https://user-images.githubusercontent.com/31128014/216876519-ad67ab02-e22f-4858-9f7c-7d6af3001f6f.jpg)
-![Screenshot 2023-01-26 212826](https://user-images.githubusercontent.com/31128014/216876520-36c83205-007e-4a27-944b-81da4064a12a.jpg)
-![Screenshot 2023-01-26 212843](https://user-images.githubusercontent.com/31128014/216876522-7a534e99-8691-47c8-a0d4-e8775b599742.jpg)
+![Screenshot 2023-01-26 212826](https://user-images.githubusercontent.com/31128014/216876747-976a5bde-4269-4ceb-bfff-9f54e0515320.jpg)
+![Screenshot 2023-01-26 212843](https://user-images.githubusercontent.com/31128014/216876765-5fdba6a9-dad0-4303-a1f9-e3c9616402fc.jpg)
+![Screenshot 2023-01-26 212910](https://user-images.githubusercontent.com/31128014/216876783-20803fe8-8237-4223-8803-f5ccd26bcb7b.jpg)
+![Screenshot 2023-01-26 213005](https://user-images.githubusercontent.com/31128014/216876799-3b67e9f5-9eac-429a-a4ca-2ee3cc556d8b.jpg)
+![Screenshot 2023-01-26 213031](https://user-images.githubusercontent.com/31128014/216876812-a848542b-8bc5-483a-ad5b-7a1132a90014.jpg)
+![Screenshot 2023-01-26 213103](https://user-images.githubusercontent.com/31128014/216876822-483db07f-9bf8-4a54-a02d-a7f1f2308adb.jpg)
+
 
 
 
